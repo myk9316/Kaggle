@@ -1,5 +1,4 @@
-# Kaggle
-Kaggle 필사
+# Kaggle 종료 대회 코드 필사
 
 # Kaggle Website
 - https://www.kaggle.com/
