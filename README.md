@@ -9,7 +9,7 @@
 - 똑같이 3번 따라쓰기
 
 # Project
-## 1. Titanic - Machine Learning from Disaster
+## 1. Titanic - Machine Learning from Disaster (Binary classification : Tabular data)
 - [타이타닉 튜토리얼 1 - Exploratory data analysis, visualization, machine learning](https://kaggle-kr.tistory.com/17?category=868316)
 - [EDA To Prediction(DieTanic)](https://www.kaggle.com/ash316/eda-to-prediction-dietanic)
 - [Titanic Top 4% with ensemble modeling](https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling)
