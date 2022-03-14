@@ -14,3 +14,9 @@
 - [EDA To Prediction(DieTanic)](https://www.kaggle.com/ash316/eda-to-prediction-dietanic)
 - [Titanic Top 4% with ensemble modeling](https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling)
 - [Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
+
+## 2. Porto Seguro’s Safe Driver Prediction (Binary classification : Tabular data)
+- [Data Preparation & Exploration](https://www.kaggle.com/bertcarremans/data-preparation-exploration)
+- [Interactive Porto Insights - A Plot.ly Tutorial](https://www.kaggle.com/arthurtok/interactive-porto-insights-a-plot-ly-tutorial)
+- [XGBoost CV (LB .284)](https://www.kaggle.com/aharless/xgboost-cv-lb-284)
+- [Porto Seguro Exploratory Analysis and Prediction](https://www.kaggle.com/gpreda/porto-seguro-exploratory-analysis-and-prediction)
