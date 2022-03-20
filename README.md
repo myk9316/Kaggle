@@ -35,7 +35,7 @@
 - [Stacking Test-Sklearn, XGBoost, CatBoost, LightGBM](https://www.kaggle.com/code/eliotbarr/stacking-test-sklearn-xgboost-catboost-lightgbm/script)
 - [LightGBM 7th place solution](https://www.kaggle.com/code/jsaguiar/lightgbm-7th-place-solution/script)
 
-## 5. Costa Rican Household Poverty Level Prediction
+## 5. Costa Rican Household Poverty Level Prediction (Multi-class classification : Tabular data)
 - [A Complete Introduction and Walkthrough](https://www.kaggle.com/code/willkoehrsen/a-complete-introduction-and-walkthrough/notebook)
 - [3250feats->532 feats using shap](https://www.kaggle.com/code/youhanlee/3250feats-532-feats-using-shap-lb-0-436/notebook)
 - [XGBoost](https://www.kaggle.com/code/skooch/xgboost/notebook)
