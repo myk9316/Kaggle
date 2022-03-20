@@ -28,3 +28,14 @@
 - [Comprehensive EDA with XGBoost (Top 10 percentile)](https://www.kaggle.com/code/miteshyadav/comprehensive-eda-with-xgboost-top-10-percentile)
 - [Bike Sharing(Feature Engineering)](https://www.kaggle.com/code/fatmakursun/bike-sharing-feature-engineering)
 - [XG Boost, Random Forest, Ridge & Lasso Regression](https://www.kaggle.com/code/carolineecc/xg-boost-random-forest-ridge-lasso-regression)
+
+## 4. Home Credit Default Risk (Binary classification : Tabular data)
+- [Introduction: Home Credit Default Risk Competition](https://www.kaggle.com/code/willkoehrsen/start-here-a-gentle-introduction/notebook)
+- [Introduction to Manual Feature Engineering](https://www.kaggle.com/code/willkoehrsen/introduction-to-manual-feature-engineering/notebook)
+- [Stacking Test-Sklearn, XGBoost, CatBoost, LightGBM](https://www.kaggle.com/code/eliotbarr/stacking-test-sklearn-xgboost-catboost-lightgbm/script)
+- [LightGBM 7th place solution](https://www.kaggle.com/code/jsaguiar/lightgbm-7th-place-solution/script)
+
+## 5. Costa Rican Household Poverty Level Prediction
+- [A Complete Introduction and Walkthrough](https://www.kaggle.com/code/willkoehrsen/a-complete-introduction-and-walkthrough/notebook)
+- [3250feats->532 feats using shap](https://www.kaggle.com/code/youhanlee/3250feats-532-feats-using-shap-lb-0-436/notebook)
+- [XGBoost](https://www.kaggle.com/code/skooch/xgboost/notebook)
