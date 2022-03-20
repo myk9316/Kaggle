@@ -21,7 +21,7 @@
 - [XGBoost CV (LB .284)](https://www.kaggle.com/aharless/xgboost-cv-lb-284)
 - [Porto Seguro Exploratory Analysis and Prediction](https://www.kaggle.com/gpreda/porto-seguro-exploratory-analysis-and-prediction)
 
-## 3. Bike Sharing Demand
+## 3. Bike Sharing Demand (시계열)
 - [EDA & Ensemble Model (Top 10 Percentile)](https://www.kaggle.com/code/viveksrinivasan/eda-ensemble-model-top-10-percentile)
 - [BIKE SHARING DEMAND](https://www.kaggle.com/code/rajmehra03/bike-sharing-demand-rmsle-0-3194)
 - [데이터 전처리에 집중한 자전거 수요예측하기 (for beginner)](https://www.kaggle.com/code/kwonyoung234/for-beginner)
