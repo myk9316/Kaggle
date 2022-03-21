@@ -25,7 +25,6 @@
 - [EDA & Ensemble Model (Top 10 Percentile)](https://www.kaggle.com/code/viveksrinivasan/eda-ensemble-model-top-10-percentile)
 - [BIKE SHARING DEMAND](https://www.kaggle.com/code/rajmehra03/bike-sharing-demand-rmsle-0-3194)
 - [데이터 전처리에 집중한 자전거 수요예측하기 (for beginner)](https://www.kaggle.com/code/kwonyoung234/for-beginner)
-- [Comprehensive EDA with XGBoost (Top 10 percentile)](https://www.kaggle.com/code/miteshyadav/comprehensive-eda-with-xgboost-top-10-percentile)
 - [Bike Sharing(Feature Engineering)](https://www.kaggle.com/code/fatmakursun/bike-sharing-feature-engineering)
 - [XG Boost, Random Forest, Ridge & Lasso Regression](https://www.kaggle.com/code/carolineecc/xg-boost-random-forest-ridge-lasso-regression)
 
